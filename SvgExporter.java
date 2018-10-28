@@ -3,7 +3,7 @@
  * @author Zunayed Hassan
  * @email  zunayedhassan@appiomatic.com
  */
-package NewConceptTechnologies.StampSealMaker;
+package com.appiomatic.SvgExporter;
 
 import java.awt.image.BufferedImage;
 import javafx.scene.layout.Pane;
